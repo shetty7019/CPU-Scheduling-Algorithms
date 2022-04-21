@@ -1,2 +1,5 @@
 # CPU-Scheduling-Algorithms
-Simulate the following CPU Scheduling Algorithms  a) FCFS 
+C program to simulate the following CPU Scheduling Algorithms 
+a) FCFS 
+b)SJF
+c) priority Scheduling
